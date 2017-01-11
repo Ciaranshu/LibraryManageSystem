@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>电源.png</file>
+        <file>e10a6b7ccc8172ce58fa12025516df9e.jpg</file>
+        <file>标签1on.png</file>
+        <file>标签2on.png</file>
+        <file>标签3on.png</file>
+        <file>右标签1.png</file>
+        <file>右标签2.png</file>
+        <file>右标签3.png</file>
+        <file>右标签4.png</file>
+        <file>右下.png</file>
+        <file>背景.png</file>
+        <file>selected2.png</file>
+        <file>disable.png</file>
+        <file>disable2.png</file>
+        <file>selected.png</file>
+        <file>unselected.png</file>
+        <file>unselected2.png</file>
+        <file>server_run_left_1.png</file>
+        <file>server_run_right.png</file>
+        <file>arrow-left@2x.png</file>
+        <file>arrow-right@2x.png</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>
